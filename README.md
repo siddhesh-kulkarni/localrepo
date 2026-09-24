@@ -13,3 +13,4 @@ start DSA
 daa
 codex new project llm
 project new
+new
