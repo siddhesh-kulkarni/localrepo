@@ -11,6 +11,5 @@ https://codersgyan.com/courses/mern-mastery-with-microservices
 GitHub demo lecture 
 start DSA
 start learning
-update projects
 find free lancing project
 do projects
