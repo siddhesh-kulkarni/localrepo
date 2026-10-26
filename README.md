@@ -12,7 +12,4 @@ GitHub demo lecture
 start DSA
 start learning
 find free lancing project
-do projects
-project 
-projects
 github worktrees
