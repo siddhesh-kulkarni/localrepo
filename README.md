@@ -16,3 +16,4 @@ github worktrees
 demooi
 demo
 update project 
+show other projects 
