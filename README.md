@@ -13,8 +13,3 @@ start DSA
 start learning
 find free lancing project
 github worktrees
-demooi
-demo
-update project 
-show other projects 
-birthday 
